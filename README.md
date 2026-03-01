@@ -134,9 +134,3 @@ Note: the folder name references tidyverse. If this work is in R, consider addin
 - Python, SQL, Jupyter Notebook
 - Core libraries: pandas, numpy, matplotlib, scikit-learn
 - Version control: Git, GitHub
-
-## How to run locally
-1. Clone the repo
-   ```bash
-   git clone https://github.com/vrajDiyora1/Data-Science-Projects-and-case-studies.git
-   cd Data-Science-Projects-and-case-studies
